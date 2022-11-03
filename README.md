@@ -59,7 +59,7 @@ H10 | The MoM (Month over Month) growth of the price of the properties is 15% | 
 ![sell.png](https://raw.githubusercontent.com/pmusachio/house_rocket/main/05.screenshots/sell.png)
 
 - **Interactive Dashboard to Exploratory Data Analysis**
-    [HOUSE ROCKET DASHBOARD](https://???.herokuapp.com/)
+    [HOUSE ROCKET DASHBOARD](https://pmusachio-houserocket.streamlit.app/)
 ![dashboard.png](https://raw.githubusercontent.com/pmusachio/house_rocket/main/05.screenshots/dashboard.png)
 
 ## Conclusion
