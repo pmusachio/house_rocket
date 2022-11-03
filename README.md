@@ -38,29 +38,29 @@ CEO needs to maximize the company's revenue by finding good business opportuniti
 ## Top Insights
 ID | Hypotheses | Graph | Translation for business
 :-:|:-:|:-:|:-:
-H01 | Properties that are waterfront are, in average, 30% more expensive | ![H01.png](https://raw.githubusercontent.com/pmusachio/house_rocket/main/04.screenshots/H01.png) | Houses with waterfront are 200% more expensive, it is better to invest on houses without waterfront, unless the profit is equally bigger
-H02 | Properties built before 1955 are, in average, 50% less expensive | ![H02.png](https://raw.githubusercontent.com/pmusachio/house_rocket/main/04.screenshots/H02.png) | We can invest in newer properties because they are not much more expensive compared to those built before 1955
-H03 | Properties without basement have a sqrt_lot 50% bigger than the ones with basement | ![H03.png](https://raw.githubusercontent.com/pmusachio/house_rocket/main/04.screenshots/H03.png) | If intend to invest in bigger lots, you should prioritize properties without a basement
-H04 | Properties with higher number of bedrooms are, in average, 10% more expensive | ![H04.png](https://raw.githubusercontent.com/pmusachio/house_rocket/main/04.screenshots/H04.png) | Properties with 5 to 10 bedrooms are more expensive
-H05 | Properties that were never renovated are, in average, 30% less expensive | ![H05.png](https://raw.githubusercontent.com/pmusachio/house_rocket/main/04.screenshots/H05.png) | Unrenovated properties are cheaper, and a great opportunity for appreciation
-H06 | Older properties that were never renovated are 40% less expensive | ![H06.png](https://raw.githubusercontent.com/pmusachio/house_rocket/main/04.screenshots/H06.png) | Unlike insight H02, properties built before 1955 and W/O renovation are cheaper
-H07 | Properties that were renovated recently are, in average, 16% more expensive | ![H07.png](https://raw.githubusercontent.com/pmusachio/house_rocket/main/04.screenshots/H07.png) | Recent renovations add value to properties, creating an opportunity to invest in properties without renovations to renovate them
-H08 | Properties in bad condition but that are waterfront are, in average, 10% more expensive | ![H08.png](https://raw.githubusercontent.com/pmusachio/house_rocket/main/04.screenshots/H08.png) | Avoid properties in poor condition and waterfront, they are on average 5X more expensive, properties in good condition and waterfront are on average 2.6X more expensive
-H09 | The YoY (Year over Year) growth of the price of the properties is of 10% | ![H09.png](https://raw.githubusercontent.com/pmusachio/house_rocket/main/04.screenshots/H09.png) | Price of real estate showed small variation (< 1%) between 2014 and 2015
-H10 | The MoM (Month over Month) growth of the price of the properties is 15% | ![H10.png](https://raw.githubusercontent.com/pmusachio/house_rocket/main/04.screenshots/H10.png) | Average price of the properties is higher between March and July
+H01 | Properties that are waterfront are, in average, 30% more expensive | ![H01.png](https://raw.githubusercontent.com/pmusachio/house_rocket/main/05.screenshots/H01.png) | Houses with waterfront are 200% more expensive, it is better to invest on houses without waterfront, unless the profit is equally bigger
+H02 | Properties built before 1955 are, in average, 50% less expensive | ![H02.png](https://raw.githubusercontent.com/pmusachio/house_rocket/main/05.screenshots/H02.png) | We can invest in newer properties because they are not much more expensive compared to those built before 1955
+H03 | Properties without basement have a sqrt_lot 50% bigger than the ones with basement | ![H03.png](https://raw.githubusercontent.com/pmusachio/house_rocket/main/05.screenshots/H03.png) | If intend to invest in bigger lots, you should prioritize properties without a basement
+H04 | Properties with higher number of bedrooms are, in average, 10% more expensive | ![H04.png](https://raw.githubusercontent.com/pmusachio/house_rocket/main/05.screenshots/H04.png) | Properties with 5 to 10 bedrooms are more expensive
+H05 | Properties that were never renovated are, in average, 30% less expensive | ![H05.png](https://raw.githubusercontent.com/pmusachio/house_rocket/main/05.screenshots/H05.png) | Unrenovated properties are cheaper, and a great opportunity for appreciation
+H06 | Older properties that were never renovated are 40% less expensive | ![H06.png](https://raw.githubusercontent.com/pmusachio/house_rocket/main/05.screenshots/H06.png) | Unlike insight H02, properties built before 1955 and W/O renovation are cheaper
+H07 | Properties that were renovated recently are, in average, 16% more expensive | ![H07.png](https://raw.githubusercontent.com/pmusachio/house_rocket/main/05.screenshots/H07.png) | Recent renovations add value to properties, creating an opportunity to invest in properties without renovations to renovate them
+H08 | Properties in bad condition but that are waterfront are, in average, 10% more expensive | ![H08.png](https://raw.githubusercontent.com/pmusachio/house_rocket/main/05.screenshots/H08.png) | Avoid properties in poor condition and waterfront, they are on average 5X more expensive, properties in good condition and waterfront are on average 2.6X more expensive
+H09 | The YoY (Year over Year) growth of the price of the properties is of 10% | ![H09.png](https://raw.githubusercontent.com/pmusachio/house_rocket/main/05.screenshots/H09.png) | Price of real estate showed small variation (< 1%) between 2014 and 2015
+H10 | The MoM (Month over Month) growth of the price of the properties is 15% | ![H10.png](https://raw.githubusercontent.com/pmusachio/house_rocket/main/05.screenshots/H10.png) | Average price of the properties is higher between March and July
 
 ## Business Results
 - **Total profit** (profit = selling price - buying price) of the properties in the portfolio is: **$1.120.337.411,00**
 
 - **Property purchase suggestions for a recommended value**
-![buy.png](https://raw.githubusercontent.com/pmusachio/house_rocket/main/04.screenshots/buy.png)
+![buy.png](https://raw.githubusercontent.com/pmusachio/house_rocket/main/05.screenshots/buy.png)
 
 - **Suggestions for selling properties for a recommended value**
-![sell.png](https://raw.githubusercontent.com/pmusachio/house_rocket/main/04.screenshots/sell.png)
+![sell.png](https://raw.githubusercontent.com/pmusachio/house_rocket/main/05.screenshots/sell.png)
 
 - **Interactive Dashboard to Exploratory Data Analysis**
     [HOUSE ROCKET DASHBOARD](https://???.herokuapp.com/)
-![dashboard.png](https://raw.githubusercontent.com/pmusachio/house_rocket/main/04.screenshots/dashboard.png)
+![dashboard.png](https://raw.githubusercontent.com/pmusachio/house_rocket/main/05.screenshots/dashboard.png)
 
 ## Conclusion
 **Goals were achieved!!**   
